@@ -1,19 +1,5 @@
-# IDE Folders and Files
-.idea
-.DS_Store
-.env
-
-*.txt
+# This is a sample .gitignore file
 *.log
-
-microservices
-config.json
-
-microservices-go
-app-microservice
-main
-dev-aceso
-
-coverage.html
-coverage.out
-coverage_filtered.out
+*.tmp
+node_modules/
+build/
